@@ -1,6 +1,6 @@
 Name:		texlive-erw-l3
 Version:	61799
-Release:	1
+Release:	2
 Summary:	Utilities based on LaTeX3
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/erw-l3
