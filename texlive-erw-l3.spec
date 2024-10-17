@@ -3,7 +3,7 @@ Version:	61799
 Release:	2
 Summary:	Utilities based on LaTeX3
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/erw-l3
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/erw-l3
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/erw-l3.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/erw-l3.doc.r%{version}.tar.xz
